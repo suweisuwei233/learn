@@ -108,18 +108,5 @@ function App() {
                   <use href="/icons.svg#bluesky-icon"></use>
                 </svg>
                 Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
 
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
-  )
-}
-
-export default App
-大傻逼123123123
 
